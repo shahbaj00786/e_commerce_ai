@@ -11,3 +11,6 @@ export const { GET, POST, PUT } = serve({
      syncUserDeletion
   ],
 });
+
+
+// 1:10 data not stroring in db
